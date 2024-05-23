@@ -1,0 +1,69 @@
+{
+    "1716473526897": {
+        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n.tag {\n  font-family: arial;\n  font-size: 10px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+        "did": 1616283185095,
+        "flds": [
+            {
+                "description": "",
+                "font": "Arial",
+                "name": "Front",
+                "ord": 0,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "name": "Back",
+                "ord": 1,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "description": "",
+                "font": "Arial",
+                "name": "Source",
+                "ord": 2,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1716473526897,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1716473548,
+        "name": "Basic (Source)",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tags": [
+            "#cs156_MLExplanation"
+        ],
+        "tmpls": [
+            {
+                "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "{{Front}}\n<br><br>\n<span class=tag>{{Tags}}</span>\n\n"
+            }
+        ],
+        "type": 0,
+        "usn": 0
+    }
+}
