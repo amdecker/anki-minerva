@@ -29,6 +29,7 @@ notetype: Image Occlusion (Source)
 
 
 ## Source
-<div>
-<div>Giovanni Gavetti and Jan W. Rivkin. “How Strategists Really Think: Tapping the Power of Analogy.” <i>Harvard Business Review</i>, April 2005. <a href="https://hbr.org/2005/04/how-strategists-really-think-tapping-the-power-of-analogy">https://hbr.org/2005/04/how-strategists-really-think-tapping-the-power-of-analogy</a>.</div>
+
+<div>Giovanni Gavetti & Jan W. Rivkin. (2005, April). How Strategists Really Think: Tapping the Power of Analogy. <i>Harvard Business Review</i>. <a href="https://hbr.org/2005/04/how-strategists-really-think-tapping-the-power-of-analogy">https://hbr.org/2005/04/how-strategists-really-think-tapping-the-power-of-analogy</a>
 </div>
+

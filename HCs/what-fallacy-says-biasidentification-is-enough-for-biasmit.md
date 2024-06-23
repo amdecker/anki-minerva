@@ -16,4 +16,8 @@ notetype: Basic (Source)
 The GI Joe fallacy
 
 ## Source
-Khan Academy. “Cognitive Biases: The GI Joe Fallacy (Video).” <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-cognitive-biases/v/gi-joe-fallacy">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-cognitive-biases/v/gi-joe-fallacy</a>.
+
+<div><div>
+<div><i>Cognitive Biases: The GI Joe Fallacy (video)</i>. (2015). Khan Academy. <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-cognitive-biases/v/gi-joe-fallacy">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-cognitive-biases/v/gi-joe-fallacy</a></div>
+</div></div>
+

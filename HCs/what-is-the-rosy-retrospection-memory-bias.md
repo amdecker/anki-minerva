@@ -16,6 +16,8 @@ What is the rosy retrospection memory bias?
 We think the past was better than it actually was
 
 ## Source
-<div>
-<div>Cunff, Anne-Laure Le. “Memory Bias: How Selective Recall Can Impact Your Memories.” <i>Ness Labs</i> (blog), November 17, 2020. <a href="https://nesslabs.com/memory-bias">https://nesslabs.com/memory-bias</a>.</div>
-</div>
+
+<div><div>
+<div>Cunff, A.L. L. (2020, November 17). Memory bias: How selective recall can impact your memories. <i>Ness Labs</i>. <a href="https://nesslabs.com/memory-bias">https://nesslabs.com/memory-bias</a></div>
+</div></div>
+

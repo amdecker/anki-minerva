@@ -16,6 +16,8 @@ WYSIATI stands for {{c1::What You See Is All There Is}}
 
 
 ## Source
-<div>
-<div>Kahneman, Daniel. <i>Thinking, Fast and Slow</i>. First paperback edition. Psychology/Economics. New York: Farrar, Straus and Giroux, 2013.</div>
-</div>
+
+<div><div>
+<div>Kahneman, D. (2013). <i>Thinking, fast and slow</i> (First paperback edition). Farrar, Straus and Giroux.</div>
+</div></div>
+

@@ -16,6 +16,8 @@ What model of attention does inattentional blindness use?
 Attention as a spotlight
 
 ## Source
-<div>
-<div>Khan Academy. “Divided Attention, Selective Attention, Inattentional Blindness, & Change Blindness (Video).”  <a href="https://www.khanacademy.org/science/health-and-medicine/executive-systems-of-the-brain/attention-language-lesson/v/divided-selective-attention-inattentional-change-blindness">https://www.khanacademy.org/science/health-and-medicine/executive-systems-of-the-brain/attention-language-lesson/v/divided-selective-attention-inattentional-change-blindness</a>.</div>
-</div>
+
+<div><div>
+<div><i>Divided attention, selective attention, inattentional blindness, & change blindness (video)</i>. (2013). Khan Academy. <a href="https://www.khanacademy.org/science/health-and-medicine/executive-systems-of-the-brain/attention-language-lesson/v/divided-selective-attention-inattentional-change-blindness">https://www.khanacademy.org/science/health-and-medicine/executive-systems-of-the-brain/attention-language-lesson/v/divided-selective-attention-inattentional-change-blindness</a></div>
+</div></div>
+

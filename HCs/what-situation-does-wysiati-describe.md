@@ -16,4 +16,6 @@ What situation does WYSIATI describe?
 People jumping to conclusions based on limited evidence
 
 ## Source
-<div> <div>Kahneman, Daniel. Thinking, Fast and Slow. First paperback edition. Psychology/Economics. New York: Farrar, Straus and Giroux, 2013.</div></div>
+ <div><div>
+<div>Kahneman, D. (2013). <i>Thinking, fast and slow</i> (First paperback edition). Farrar, Straus and Giroux.</div>
+</div></div>
