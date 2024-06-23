@@ -13,10 +13,10 @@ notetype: Cloze (Source)
 CRAAP framework for #sourcequality
 
 C: {{c1::currency (publication date)}}
-R: {{c2::relevance to your project}}
-A: {{c3::accuracy of content}}
-A: {{c4::authority of the author}}
-P: {{c5::purpose (why it exists, points of view or potential biases)}}
+R: {{c1::relevance to your project}}
+A: {{c1::accuracy of content}}
+A: {{c1::authority of the author}}
+P: {{c1::purpose (why it exists, points of view or potential biases)}}
 
 ## Back Extra
 
