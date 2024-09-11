@@ -22,7 +22,7 @@ keep all your cards and decks under on big master deck (Default) because then yo
 - Otherwise there's probably no need to change any settings 
 
 ## Editing these shared decks & integration with git
-0. Ask @amdecker or subit pull request
+0. Ask @amdecker or submit pull request
 1. Open a terminal on your computer. Make sure Anki is closed. 
 2. Install [ki](https://langfield.github.io/ki/), which is a tool that integrates Anki with git. Follow the instructions for setting up ki up to and including the step ["Running the clone command"](https://langfield.github.io/ki/#running-the-clone-command). This will move your Anki decks into a local git repository in a format that ki can work with.
 3. Navigate inside the ki repo: `cd collections`. Then run `git submodule add https://github.com/amdecker/anki-minerva.git` to get the shared decks. 
